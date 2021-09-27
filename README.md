@@ -8,7 +8,7 @@ Sample source code for the following blog post :
 ##### French version :
 [https://damienaicheh.github.io/azure/2021/09/28/azure-cosmosdb-pagination-fr](https://damienaicheh.github.io/azure/2021/09/28/azure-cosmosdb-pagination-fr)
 
-To run this project, you needs to:
+To run this Azure Function project, you need to:
 - Create an [Azure Cosmos DB][azure-cosmos-db-link] database and give it a name, for example: `cosmos-vegetables-001` 
 - Add a Container called `vegetable` for instance
 - Add items with this format:
