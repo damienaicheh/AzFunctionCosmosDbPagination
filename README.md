@@ -1,4 +1,4 @@
-# Paginate your results using Azure Cosmos DB
+# Paginate your results using .NET V4 SDK for Azure Cosmos DB
 
 Sample source code for the following blog post :
 
